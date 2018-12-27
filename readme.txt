@@ -2,7 +2,7 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
-Stupid B_oss ---- fix bug
+Stupid B_oss ---- fix another bug
 Add 1
 Add 2
 Add 3
